@@ -35,7 +35,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 73a089bb81e7cf7deff385f983a85622a7e30a03
 DataTable\en-ph\NDEventShip.edf f31d7f57eba63d4068b37e0c382d76d4e13ba898
-DataTable\en-ph\NDItem.edf 335f55559ce0710b3ba572581b1bc4a392db5b96
+DataTable\en-ph\NDItem.edf d7f1795270ae88a28e36af37ad37de9671fbe7b0
 DataTable\en-ph\NDItemCash.edf b4d5ca73e088eb3442170552ec38768d7241d50e
 DataTable\en-ph\NDLanguage.edf 42c0e2875e696b5dd4f06972329f028130f3a88e
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
