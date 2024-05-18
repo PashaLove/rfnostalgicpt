@@ -35,7 +35,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 73a089bb81e7cf7deff385f983a85622a7e30a03
 DataTable\en-ph\NDEventShip.edf f31d7f57eba63d4068b37e0c382d76d4e13ba898
-DataTable\en-ph\NDItem.edf fb55ae52832d9d13a3feb99dc977d4aef7d4fae0
+DataTable\en-ph\NDItem.edf c05093bf9d22ab605070355994d9ca414a78e7c1
 DataTable\en-ph\NDItemCash.edf b4d5ca73e088eb3442170552ec38768d7241d50e
 DataTable\en-ph\NDLanguage.edf 42c0e2875e696b5dd4f06972329f028130f3a88e
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
@@ -53,7 +53,7 @@ DataTable\en-ph\UITranslation.htm 4fbcfc56cc3f1a941c7fadbae008e8bbab9d1715
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 1ca62ec605a6540bcc5593cdda895156d7750405
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 7eb62b9b936b4030a891c9020085d4374397b9de
+DataTable\Item.edf 924c044f53430f970ac75c3a4938f47956f33222
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
 DataTable\ItemCash.edf 042b52e49250be555e08136169d55ba6538ae19a
 DataTable\ItemCombine.edf 8d6346f83f3f1b2d0425e89d90083d7b71da5d99
@@ -80,7 +80,7 @@ Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 1b14d89377a56a8ed83f16a234fb3a61ac853758
 sirin-launcher.dll 1dd34dd1d25aa2422284fedf57b3a9c9c662a54c
-SpriteImage\common\item.spr 44cc937934f01c85c028b8519d25b9f62690200b
+SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
 SpriteImage\en-ph\loading.spr 4cf5c2be282a1ef30fe371baf3425d098f801bc2
