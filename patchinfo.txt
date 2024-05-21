@@ -31,6 +31,8 @@ DataTable\en-ph\font.ini c4edfdf4883586380b3bd9ebe4d0b0816a758741
 DataTable\en-ph\GameData.edf 7d2ef0c06489bfe5d511610ec7d469882c98e1fd
 DataTable\en-ph\Hint.edf 74819598b41b3e0e897b439d06d30e00ab8bb4d8
 DataTable\en-ph\Ipa.dic 3613ed509e0ea85e5291a6e05989798c2977c98b
+DataTable\en-ph\KeyMap.dat efd17896587779a56598851f72fbf440ad46cf5c
+DataTable\en-ph\KeyMap_NKM.dat f077087e35691323f3b24ac541a2c829683f77d9
 DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 73a089bb81e7cf7deff385f983a85622a7e30a03
