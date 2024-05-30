@@ -24,7 +24,6 @@ DataTable\en-ph\csba.txt efeba8445d3a2d8bce00d327d57d54330ef46a04
 DataTable\en-ph\Cspa.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\csra.txt 5f1dc210f0b06d95325c9308e1629847030346f4
 DataTable\en-ph\cw.scp 7cdb605a42841e1c8de7f5e43fd7b79dc4bd9e90
-DataTable\en-ph\desktop.ini e12874b22f051789c6a7aec063c12fdf0150f344
 DataTable\en-ph\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
 DataTable\en-ph\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-ph\font.ini c4edfdf4883586380b3bd9ebe4d0b0816a758741
