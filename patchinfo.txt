@@ -37,7 +37,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 0cf363be0cf6bf082c44872359eb5f9944f6fd75
 DataTable\en-ph\NDEventShip.edf da11a383f28468ce0a91a56e12a3105642b29324
-DataTable\en-ph\NDItem.edf 65d74ab401894860fa902b677f2d323c08889671
+DataTable\en-ph\NDItem.edf 240c316a047c4545c1aa6207d651df2fa2cfd6b3
 DataTable\en-ph\NDItemCash.edf a2506ae2b0488a9a60d8d617eedb0a89a1fd2bed
 DataTable\en-ph\NDLanguage.edf 5914b2383687798c019b8274d45a994cb2d664d1
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
@@ -45,7 +45,7 @@ DataTable\en-ph\NDMsgEvent.edf 3d9ff812013865aceac3601185f79391c100667a
 DataTable\en-ph\NDMsgMonster.edf e7155a3531aaad3c3163a76172bcc041b97fe998
 DataTable\en-ph\NDQuest.edf 43cbd8f7ef86f3d6739e44130bcb01a57ed440e6
 DataTable\en-ph\NDSkillForce.edf 231e700f43e3e439d5e046308b6bb38c9414c21b
-DataTable\en-ph\NDStore.edf d375d1325306a294eb2700dd20e1c4e6626f102d
+DataTable\en-ph\NDStore.edf 2ac74f349b0dae8b8213cc7fcf36d6ad96cd97ec
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -55,7 +55,7 @@ DataTable\en-ph\UITranslation.htm dd04b2e11dcf5b843eadc6fb059b386abe5bcb81
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf f69119394d29ee00c2b440b594a25aa7d4a56343
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 781045359b0bc53790ce2731877a335ddae94c35
+DataTable\Item.edf e633fdcfdfc890242d6525bdbd1ed0d06b874241
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
 DataTable\ItemCash.edf bee0735880aaf1243bde298de5493aecf72d2674
 DataTable\ItemCombine.edf 958697848f59d554711f9b63c11e328dae5b8495
@@ -69,7 +69,7 @@ DataTable\PlayerCharacter.edf cf3079485e645975d4fc5f26cecf3b87ff4bbd76
 DataTable\Quest.edf 194ecb723f8ed1fee93c36a3c01e1b7ae0f9c5f0
 DataTable\Resource.edf 8d8158202bda28c9bf84c100f7a31850fa942184
 DataTable\SkillForce.edf 99a2663b3c0c3562561a375a22d3a81f37b0d441
-DataTable\Store.edf 47008ee77e2b1195a314943abb137402ee1a0a1d
+DataTable\Store.edf 89631ee7910b5703d48f5964cafd1609fdd32c5a
 DataTable\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 Effect\item\rift_exit_mag.spt 9812fe3197840d790760a4c47d59a16927371884
 Item\armor\ani\ACCRETIA_ARMOR_CLOAK_00X_DEFAULT.ANI f8942ba5e0a80c72319252f3d2e81f4f2b05ec64
