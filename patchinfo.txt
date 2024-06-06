@@ -24,7 +24,6 @@ DataTable\en-ph\csba.txt efeba8445d3a2d8bce00d327d57d54330ef46a04
 DataTable\en-ph\Cspa.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\csra.txt 5f1dc210f0b06d95325c9308e1629847030346f4
 DataTable\en-ph\cw.scp 7cdb605a42841e1c8de7f5e43fd7b79dc4bd9e90
-DataTable\en-ph\desktop.ini e12874b22f051789c6a7aec063c12fdf0150f344
 DataTable\en-ph\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
 DataTable\en-ph\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-ph\font.ini c4edfdf4883586380b3bd9ebe4d0b0816a758741
@@ -80,7 +79,6 @@ Item\armor\ani\CORFEMALE_ARMOR_CLOAK_00X_DEFAULT.ANI b89f6b114af3f689d1e7f46f418
 Item\armor\ani\CORFEMALE_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d23eaa9d43
 Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_DEFAULT.ANI b89f6b114af3f689d1e7f46f4185aea5091dfcdd
 Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d23eaa9d43
-Patch.rar ea0cdcbdc012055df2a3a15ec1f9c33b658e8099
 RF_NostalgicFix.exe 578ad1e506f5bed55f0b58a8a1a542d73b365088
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 63b9ddb91649336acd1cc3c9eb1355d2dc5f7a12
