@@ -36,7 +36,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 022f47da840da9aff89c92803f88c3c8fb80db9c
 DataTable\en-ph\NDEventShip.edf 6f8bca210049fbd56ed76b50de29655651c4cc63
-DataTable\en-ph\NDItem.edf 61efc7543f8c8792ba8949fc3f53440e268c85b3
+DataTable\en-ph\NDItem.edf 6b5d27134a2b38d83d6604fda2702e45327eb58f
 DataTable\en-ph\NDItemCash.edf 5f6e3e0df27dfbefd05e741b36e6b74d39203bb1
 DataTable\en-ph\NDLanguage.edf fece2099b4f18c6c7b075b6e92c24a5a0900ae34
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
@@ -54,10 +54,10 @@ DataTable\en-ph\UITranslation.htm dd04b2e11dcf5b843eadc6fb059b386abe5bcb81
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 34cb38e787662207c9cab30bb9e12bc16f7e8aba
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf ffcb1749efb9a35be367a4770e28cc74c02e638a
+DataTable\Item.edf f812d88757301b38fc930c1a0e8230814ae6a421
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
 DataTable\ItemCash.edf 3acc83d73503ac94e0daed02ec18fd7c19a022d1
-DataTable\ItemCombine.edf 0ff3442598f613ee10317b5b105faa0762d73355
+DataTable\ItemCombine.edf afa59f371393263ab9c6571e18801cece72ae20f
 DataTable\ItemPremium.edf 9cd60e383c8353875204261b127ce90f37a2a04f
 DataTable\ItemSetEffect.edf 0d4caa8b8e90e6c9d606023898945e8dc70e3cd4
 DataTable\ItemTimer.edf 68e71976cfaddb488ec2081ab7a9d9232fdbc196
@@ -86,5 +86,5 @@ sirin-launcher.dll a0e732fb0e89133876ebbb6132e8d1a722de64d3
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
-SpriteImage\en-ph\loading.spr 18d7be2a0251cccee71ca71cdd7b974cf8829b6a
+SpriteImage\en-ph\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
