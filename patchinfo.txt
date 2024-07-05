@@ -17,7 +17,7 @@ Character\Animus\Mesh\SISIS_AMY.sef.msh 8be3d790ac9ea439e095c3ab597ded189d47cb85
 Character\Animus\Mesh\SPAANM.sef.RFS 66118aa90c65cb77f56a3e06a4c83c4683126420
 Character\Animus\Mesh\SPAIMON_AMY.sef.msh acb3fdce431d5e48b7a0b1aae15456d79f1fb830
 Character\Animus\tex\HEANT1.sef.RFS cb05aa3d8de289f86205f6595268a5935d9d73fa
-Character\Unit\Mesh\CGOUNM.RFS b1805ce34b31427c2d7795f0dcae5e7c2925bc34
+Character\Unit\Mesh\CGOUNM.RFS cb9357ba0a3577f00bdabc98f0933e95c5e84f47
 Character\Unit\Mesh\CGOUNM.sef.RFS 680495fe54ecf6fcaf20d151f01723c334b98b2e
 Character\Unit\tex\60UNT1.sef.RFS 3b76cb1b7c3eb4f0777e549c40c7243568446006
 Character\Unit\tex\60UNT2.sef.RFS 07fd6198a9f692efffe3a9c4259be104746f6aa9
