@@ -119,7 +119,7 @@ chef\tex\ave_YNEL.dds dcdd60de2fe0d0f3ad92d6acf90af8e118d428b4
 chef\tex\new5515.dds 58a1aa34d1f290551d0a3999995ae8fb3bf20a13
 chef\tex\PC_ENV_000.dds 2f34710f641e6e6d11bb80bd9caf756eb54b975a
 chef\unit.ini 6e6541acac267c8a7a736f18df5d05716e844dbb
-d3d9.dll 2569348b2b8ca7724f6fc7f5cbe909224875c66f
+d3d9.dll 656f7822d2b927bf835cea39ed6562a987f63c88
 d3dx9.dll be03e47159fb87dfb855e8768ad9617dc6085850
 D3DX9_43.dll f5944df4142983714a6d9955e6e393d9876c1e11
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
@@ -168,8 +168,8 @@ DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
+DataTable\en-ph\ui.lang 199ce1a3e7c0407cfe7d55c9d804c1a99178aa8e
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
-DataTable\en-ph\UITranslation.htm dd04b2e11dcf5b843eadc6fb059b386abe5bcb81
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 3fa16b0ba2daecef9547b1af84aecd22e6661b2f
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
@@ -200,7 +200,6 @@ Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_DEFAULT.ANI b89f6b114af3f689d1e7f46f4185a
 Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d23eaa9d43
 RF_NostalgicFix.exe 578ad1e506f5bed55f0b58a8a1a542d73b365088
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
-sciter.dll 63b9ddb91649336acd1cc3c9eb1355d2dc5f7a12
 sirin-launcher.dll a0e732fb0e89133876ebbb6132e8d1a722de64d3
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
