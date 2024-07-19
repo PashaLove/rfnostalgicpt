@@ -167,7 +167,7 @@ DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
-DataTable\en-ph\ui.lang 199ce1a3e7c0407cfe7d55c9d804c1a99178aa8e
+DataTable\en-ph\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 8f3ab90d0fa31b96e89469eb78498cda92ad4690
