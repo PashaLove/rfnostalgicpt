@@ -155,7 +155,11 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 4913a7d08d6a2dd2b68d485296d864e897ac4ce8
 DataTable\en-ph\NDEventShip.edf 89fa469888e5c225ffb2d28dc163c4d3f9d7ced2
+<<<<<<< Updated upstream
 DataTable\en-ph\NDItem.edf ad5a639bd1e210313ea3ef1cee1374a0cbaf865e
+=======
+DataTable\en-ph\NDItem.edf b038967a516afa66a375953b13b33d22abcf5db8
+>>>>>>> Stashed changes
 DataTable\en-ph\NDItemCash.edf 1fb557099c97daaa547b541f0c787d4c4e26b1ec
 DataTable\en-ph\NDLanguage.edf 851a886ef0f21c054911aafcead95a1698900aea
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
@@ -174,8 +178,12 @@ DataTable\en-ph\UITranslation.htm dd04b2e11dcf5b843eadc6fb059b386abe5bcb81
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 8f3ab90d0fa31b96e89469eb78498cda92ad4690
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
+<<<<<<< Updated upstream
 DataTable\Item.edf b9d3e3bfb372b188188b3751f5e4b386d24801b0
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
+=======
+DataTable\Item.edf fbcf6687ebc55e149186c4f1d34336eeb352efdf
+>>>>>>> Stashed changes
 DataTable\ItemCash.edf 68c353fcc910e08199ca0d3d4dd6a748bf569ddc
 DataTable\ItemCombine.edf b4247fe83617036425b46be6562817ee3289f17e
 DataTable\ItemPremium.edf b1cd644a4aacd84ae3a15128c706785ebc275db7
