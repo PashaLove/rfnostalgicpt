@@ -155,7 +155,7 @@ DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 723223f2beec9eb48f534f81211d937f9e71a108
 DataTable\en-ph\NDEventShip.edf 89fa469888e5c225ffb2d28dc163c4d3f9d7ced2
 DataTable\en-ph\NDItem.edf 51257c0fe7ec4f36affaf4b83b812a9f97cd2c29
-DataTable\en-ph\NDItemCash.edf 678dbf99a558b94c063fff127e04d59caf49dc9f
+DataTable\en-ph\NDItemCash.edf 5606c172169392e9ae00ebebc70d159438f11e06
 DataTable\en-ph\NDLanguage.edf 0bdcc38e61dc299a9da9c7aaa01759ce2219c944
 DataTable\en-ph\NDMap.edf 9a3164c28300f3e4a03148d51aeef04210971d35
 DataTable\en-ph\NDMsgEvent.edf 22c0755ed201207227f443c96af3bf30863625ff
@@ -167,13 +167,13 @@ DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
-DataTable\en-ph\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
+DataTable\en-ph\ui.lang 4aaaeeda5c9984f6fb4d472e0a48dca1de7a8ce3
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 8f3ab90d0fa31b96e89469eb78498cda92ad4690
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf a5562f6e775913b044e6be3068df8b067e666846
-DataTable\ItemCash.edf d890657a870f86ba20f0b90750e7278d8616677a
+DataTable\ItemCash.edf 7c9ecd3f42e26ea0c7b3e85c806f86f13305b5e4
 DataTable\ItemCombine.edf 8b19c48cceb932227e677058634889747abc3516
 DataTable\ItemPremium.edf b1cd644a4aacd84ae3a15128c706785ebc275db7
 DataTable\ItemSetEffect.edf 7db0f76ac436357c049d505010d5e58c29780dca
@@ -201,5 +201,5 @@ sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
-SpriteImage\en-ph\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
+SpriteImage\en-ph\loading.spr ec7cbf0f9dbdb292911f1390091732193734cd70
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
