@@ -201,5 +201,5 @@ sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
-SpriteImage\en-ph\loading.spr ec7cbf0f9dbdb292911f1390091732193734cd70
+SpriteImage\en-ph\loading.spr 014e45ec54c0239a20bdd7f51ba05fa14eb15637
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
