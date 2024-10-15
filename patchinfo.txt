@@ -1756,3 +1756,4 @@ SpriteImage\common\Map\Arena_Field.spr 4b2d751aa1e33a417a6dba62975b4e97f6e9b964
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
 SpriteImage\en-ph\loading.spr 014e45ec54c0239a20bdd7f51ba05fa14eb15637
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
+commit-version.txt 91e95be6b6634e3c21072dfcd661146728694326
