@@ -711,7 +711,7 @@ Chef\tex\STAFF_OR2.dds ddb5e59c2f8ffaf1a70cfaf26fa69afd8ea14fe0
 d3d9.dll 15e3080643d6915e300fbbe151dcbe0b1d8fd08a
 d3dx9.dll be03e47159fb87dfb855e8768ad9617dc6085850
 D3DX9_43.dll f5944df4142983714a6d9955e6e393d9876c1e11
-DataTable\Character.edf 0e364169a5f8d923ee2c757e5ea995bb9c4d1c24
+DataTable\Character.edf 98f670394253af72aa2dfd10dc075e7db382b9f0
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
 DataTable\en-ph\ar.scp 3029a728a9f9abecb4429ebf8c41bb585537557a
@@ -741,7 +741,7 @@ DataTable\en-ph\KeyMap.dat efd17896587779a56598851f72fbf440ad46cf5c
 DataTable\en-ph\KeyMap_NKM.dat f077087e35691323f3b24ac541a2c829683f77d9
 DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
-DataTable\en-ph\NDCharacter.edf e05699435ddb3a420044d4897773a7717a6e92ab
+DataTable\en-ph\NDCharacter.edf 674398babf3928f2da166e6b1675f3c982ef5823
 DataTable\en-ph\NDEventShip.edf a3b9ca92b1c411babb53bfdae61e47b5e7abc41d
 DataTable\en-ph\NDItem.edf 5f882ed5776e3d18aa15944720fdd0c472541a15
 DataTable\en-ph\NDItemCash.edf 0555c410966dbaac6e0a5bf623e4c5d7045c379b
@@ -751,7 +751,7 @@ DataTable\en-ph\NDMsgEvent.edf 5eb48ca6404ae5097ab13c01c0976a074b3ecb7a
 DataTable\en-ph\NDMsgMonster.edf 450929aab003b5c6485288e2d56623d899de3148
 DataTable\en-ph\NDQuest.edf a9f1b038d7d60e9972a39b52d7d70577c0e8d53a
 DataTable\en-ph\NDSkillForce.edf cf42a79a621eaf999f3d015a9b73ae5c703883c2
-DataTable\en-ph\NDStore.edf 1cf3fcfb3771db7efbbff5f62bdc6f12dbc22608
+DataTable\en-ph\NDStore.edf fc4b360c2cbc39e7382d92bb36565cbfc673aa96
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -773,7 +773,7 @@ DataTable\PlayerCharacter.edf 01addb7399ab09a47e84fd471c0da22a4222fa2f
 DataTable\Quest.edf a65453ced7f4f4266f286d5e4b4f75d2d6c685a7
 DataTable\Resource.edf 17f2906f4e6d49f90069108b9cf77ad5de2e0534
 DataTable\SkillForce.edf 78e7481fe7abbe95ccbb735a353c1bf08c9ac6fb
-DataTable\Store.edf 51a2d0957d0bd8f5d3e97eb0202265b560a8eca6
+DataTable\Store.edf a520959bc3ac637089d33c43cf8515da32f4c452
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_ATTACK.ANI d1258fe62a9a5b09537f4c3b1de13e2b26422c1f
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_DEFAULT.ANI f8942ba5e0a80c72319252f3d2e81f4f2b05ec64
@@ -1741,13 +1741,13 @@ Map\Entity\narskin\spt\light_007.spt 7ffc071232c433005d313a01c33e904e91cee1d1
 Map\Entity\narskin\spt\smk.spt 16924873c63325b2bed352a463b7a3f3a23f7b01
 Map\Entity\narskin\spt\smk2.spt 36c768eb732dfc939fa5cfb7920c31881511b5a7
 Map\lobby\lobby.ebp da39a3ee5e6b4b0d3255bfef95601890afd80709
-Map\lobby\lobby.sef.ebp 3ac97b73d930f47dd084f0a4763e2672cd580e38
+Map\lobby\lobby.sef.ebp 918eda12dd887023b8f85d19cbf391b302b01bb4
 Map\neutralA\neutralA.ebp da39a3ee5e6b4b0d3255bfef95601890afd80709
-Map\neutralA\neutralA.sef.ebp 87b58ad96d40871f7d17b5fd9b654c13bf119e3c
+Map\neutralA\neutralA.sef.ebp b80f6b60fd9aa1c272287d9992d81ebdcaf6648f
 Map\neutralB\neutralb.ebp da39a3ee5e6b4b0d3255bfef95601890afd80709
-Map\neutralB\neutralb.sef.ebp 7dca8754f124b91ac0c38942a86bf1551ebe045f
+Map\neutralB\neutralb.sef.ebp 4535d9049289d757d79c111a68b2db64c0a785f0
 Map\neutralC\neutralC.ebp da39a3ee5e6b4b0d3255bfef95601890afd80709
-Map\neutralC\neutralC.sef.ebp 0bfda06475a492a7e94cbd349a4b91cda25aabaa
+Map\neutralC\neutralC.sef.ebp 13749e7e795d7bb39c9c45c9afab326005ef6822
 Map\Sette\sette.ebp da39a3ee5e6b4b0d3255bfef95601890afd80709
 Map\Sette\sette.sef.ebp 6a445fa640433b414b282473ee9f505267b59a12
 Map\Sette\Sky\Settesky.r3e 30d7c4c26757eeadb8fa38fae456b835406bfeb6
