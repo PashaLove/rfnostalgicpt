@@ -744,7 +744,7 @@ DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 674398babf3928f2da166e6b1675f3c982ef5823
 DataTable\en-ph\NDEventShip.edf a3b9ca92b1c411babb53bfdae61e47b5e7abc41d
 DataTable\en-ph\NDItem.edf 5f882ed5776e3d18aa15944720fdd0c472541a15
-DataTable\en-ph\NDItemCash.edf 0555c410966dbaac6e0a5bf623e4c5d7045c379b
+DataTable\en-ph\NDItemCash.edf 63c66caa22ed9dfd02dfb657fca8956d7a722dfb
 DataTable\en-ph\NDLanguage.edf 86bbb0aece4351b27f3c7203c5a483d286d92e39
 DataTable\en-ph\NDMap.edf b2335a1a5fdb87b7efddaf6d617828f9f2e01f13
 DataTable\en-ph\NDMsgEvent.edf 5eb48ca6404ae5097ab13c01c0976a074b3ecb7a
@@ -762,7 +762,7 @@ DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 7869252e3126a7ce6bed8d0fab31e21bdd0950d6
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf 4c2faaa9c0178efeeaa7b1fd6e34310904954de1
-DataTable\ItemCash.edf b4e656c6a8409b63ad8e79e82d5055fffd64fde1
+DataTable\ItemCash.edf 00b21093715867d74a5df159e61cdd0faee2d8f5
 DataTable\ItemCombine.edf 84cb4816f47762ff1de889846531b1dd8fb9e4df
 DataTable\ItemPremium.edf a527a3c6349e5a8b13b75e8f34152283724e89a1
 DataTable\ItemSetEffect.edf 2103c334b0abb40ee8aca021ccae6fb2a73ed1ff
@@ -1761,6 +1761,8 @@ rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
+SpriteImage\common\Loading\elan2.dds c323d05872fbc209faaca3ad028cb80302ef7a8d
 SpriteImage\common\Map\Arena_Field.spr 4b2d751aa1e33a417a6dba62975b4e97f6e9b964
+SpriteImage\common\Map\Elan2_Field.spr eed8293b9abd50e7fc0b1e7a98d8701d9f8dcfa9
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
 SpriteImage\en-ph\loading.spr 014e45ec54c0239a20bdd7f51ba05fa14eb15637
