@@ -743,7 +743,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 674398babf3928f2da166e6b1675f3c982ef5823
 DataTable\en-ph\NDEventShip.edf a3b9ca92b1c411babb53bfdae61e47b5e7abc41d
-DataTable\en-ph\NDItem.edf 5f882ed5776e3d18aa15944720fdd0c472541a15
+DataTable\en-ph\NDItem.edf f1db35c991c72d8c73d48b05efb981649b727a35
 DataTable\en-ph\NDItemCash.edf 63c66caa22ed9dfd02dfb657fca8956d7a722dfb
 DataTable\en-ph\NDLanguage.edf 86bbb0aece4351b27f3c7203c5a483d286d92e39
 DataTable\en-ph\NDMap.edf b2335a1a5fdb87b7efddaf6d617828f9f2e01f13
@@ -761,7 +761,7 @@ DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 7869252e3126a7ce6bed8d0fab31e21bdd0950d6
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 4c2faaa9c0178efeeaa7b1fd6e34310904954de1
+DataTable\Item.edf a0abeb4a8fda4e9ff8a6d57c2e41b4b01c897ed7
 DataTable\ItemCash.edf 00b21093715867d74a5df159e61cdd0faee2d8f5
 DataTable\ItemCombine.edf 84cb4816f47762ff1de889846531b1dd8fb9e4df
 DataTable\ItemPremium.edf a527a3c6349e5a8b13b75e8f34152283724e89a1
